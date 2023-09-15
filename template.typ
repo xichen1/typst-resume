@@ -4,7 +4,7 @@
 #let project(title: "My Resume", authors: "ppx", body) = {
   // Set the document's basic properties.
   set document(author: authors, title: title)
-  set page(margin: (left: 8mm, right: 8mm, top: 10mm, bottom: 10mm))
+  set page(margin: (left: 8mm, right: 8mm, top: 7mm, bottom: 7mm))
   set text(font: "Linux Libertine", lang: "en")
   set par(justify: true)
 
